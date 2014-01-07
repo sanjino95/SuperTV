@@ -197,21 +197,6 @@
   </backup>
   </stream>
   <stream>
-  <title>National Geographic HD</title>
-  <info resolution="768x420" bitrate="1000kbps"/>
-  <swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-  <link>rtmp://tv.futubox.com/live</link>
-  <pageUrl><![CDATA[http://www.futubox.com/national-geographic-nat-geo-hd/]]></pageUrl>
-  <playpath>z050223.stream</playpath>
-  <language>Italian</language>
-  <advanced>live=1</advanced>
-	<epgid>skyit:641</epgid>
-	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/300px-National_Geographic_Channel.svg.png</logourl>
-	<backup>
-    <link>http://tv.futubox.com:1935/live/z050223.stream/playlist.m3u8</link>
-  </backup>
-  </stream>
-  <stream>
   <title>Nat Geo Adventure HD</title>
   <info resolution="768x420" bitrate="1000kbps"/>
   <swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
